@@ -4,7 +4,7 @@ Fix for Exile III: Ruined World Linux version
 This allows Exile III: Ruined World Linux setup on a modern Linux distribution such as Ubuntu 25.10
 
 **How to use**
-Just copy exile3_fix.sh and fonts_hook_x11.so to the game setup folder and run exile3_fix.sh from the terminal to apply the setup fix. Make sure when using setup script do not change the default game install location otherwise the game does not work.
+Just copy exile3_fix.sh and fonts_hook_x11.so to the game setup folder and run exile3_fix.sh from the terminal to apply the setup fix. Make sure when using the setup script do not change the default game install location otherwise the game does not work after installation.
 
  - exile3_fix.sh script updates the setup and launch files allowing the game to run on modern Linux distributions.
  - fonts_hook_x11.so allows the game to render the fonts correctly on modern Linux distributions. This was compiled against Ubuntu 25.10, if you have an older distribution just compile it for your distribution and replace the file in the setup folder before running the game setup script. For more information about the project:
