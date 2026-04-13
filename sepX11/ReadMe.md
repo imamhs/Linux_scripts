@@ -3,9 +3,9 @@
  - Copy sepX11.conf, sepX11_start.sh and sepX11_stop.sh to a folder,
    ideally in home folder for easy access. Make sure both the sh files
    have executable permission.
- - Edit the sepX11.conf file to change the resolution and color depth of
-   expected new X11 server. Currently, it is set to 640x480 and 16 bit
-   color depth.
+ - Edit the sepX11.conf or sepX11_all_modes.conf file to change the resolution / color depth of
+   expected new X11 server. Currently, sepX11.conf has fied resolution support of 640x480 and 16 bit
+   color depth. With sepX11_all_modes.conf application can decide the resolution, you just set the color depth which is currently set to 24 bit.
 
 **To start a new X11 server**
 
@@ -27,6 +27,12 @@ Now, to run an application in this new X11 server, first go back to your regular
 or,
 *export DISPLAY=:3
 application*
+
+For example:
+
+*DISPLAY=:3 xterm*
+
+Now, use the xterm inside the new X11 server to run the application.
 
 In the above, 3 is indicating the new X11 server is running inside tty3 console. Now, press the Ctrl + Alt + F3 keys combo to go back to tty3 console where the new X11 server is running showing the application. 
 
