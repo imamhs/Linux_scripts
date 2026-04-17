@@ -1,4 +1,4 @@
-I have created the following list of  [Single player](https://en.wikipedia.org/wiki/Single-player_video_game "Single-player video game")  [OpenGL](https://en.wikipedia.org/wiki/OpenGL "OpenGL")  [PC games](https://en.wikipedia.org/wiki/PC_game "PC game"). The list is not an exhaustive but pretty close to complete in terms of pure 3D games:
+I have created the following list of  [Single player](https://en.wikipedia.org/wiki/Single-player_video_game "Single-player video game")  [OpenGL](https://en.wikipedia.org/wiki/OpenGL "OpenGL")  [PC games](https://en.wikipedia.org/wiki/PC_game "PC game"). The list is not an exhaustive:
 
 1.  [MDK2](https://en.wikipedia.org/wiki/MDK2 "MDK2")
 2.  [Doom 3](https://en.wikipedia.org/wiki/Doom_3 "Doom 3")
