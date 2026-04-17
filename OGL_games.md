@@ -168,3 +168,7 @@ I have created the following list of  [Single player](https://en.wikipedia.org/w
 166. [Helena The 3rd](https://www.onlyhumanstudios.net/helena-the-3rd)
 167. [Grappling Hook](https://en.wikipedia.org/wiki/Grappling_Hook_(video_game))
 168. [Tribal Trouble](https://en.wikipedia.org/wiki/Tribal_Trouble)
+169. [Baldur's Gate: Dark Alliance](https://www.pcgamingwiki.com/wiki/Baldur%27s_Gate:_Dark_Alliance)
+170. [Baldur's Gate: Dark Alliance II](https://www.pcgamingwiki.com/wiki/Baldur%27s_Gate:_Dark_Alliance_II)
+171. [Black Mesa](https://en.wikipedia.org/wiki/Black_Mesa_(video_game))
+172. [Euro Truck Simulator](https://en.wikipedia.org/wiki/Euro_Truck_Simulator)
