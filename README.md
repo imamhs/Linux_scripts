@@ -1,4 +1,4 @@
-Various scripts and fixes for Linux.
+Various scripts, fixes and information for Linux.
 
 Cheers,
 Imam
