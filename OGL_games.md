@@ -101,7 +101,7 @@ I have created the following list of  [Single player](https://en.wikipedia.org/w
 99.  [Painkiller: Hell & Damnation](https://en.wikipedia.org/wiki/Painkiller:_Hell_%26_Damnation)
 100. [Desperados III](https://en.wikipedia.org/wiki/Desperados_III)
 101. [Air Conflicts: Pacific Carriers](https://en.wikipedia.org/wiki/Air_Conflicts:_Pacific_Carriers)
-102. [Anna] (https://en.wikipedia.org/wiki/Anna_(video_game))
+102. [Anna](https://en.wikipedia.org/wiki/Anna_(video_game))
 103. [Anomaly: Warzone Earth](https://en.wikipedia.org/wiki/Anomaly:_Warzone_Earth)
 104. [BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien](https://en.wikipedia.org/wiki/Runner2)
 105. [Cogs](https://www.mobygames.com/game/40366/cogs/)
