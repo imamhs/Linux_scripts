@@ -1,4 +1,4 @@
-I have created the following list of  [Single player](https://en.wikipedia.org/wiki/Single-player_video_game "Single-player video game")  [OpenGL](https://en.wikipedia.org/wiki/OpenGL "OpenGL")  [PC games](https://en.wikipedia.org/wiki/PC_game "PC game"). A game supporting OpenGL is available either on Linux or Windows version or both. Some games are also ported to OpenGL through source port. The list is not an exhaustive:
+I have created the following list of high-quality  [Single player](https://en.wikipedia.org/wiki/Single-player_video_game "Single-player video game")  [OpenGL](https://en.wikipedia.org/wiki/OpenGL "OpenGL")  [PC games](https://en.wikipedia.org/wiki/PC_game "PC game"). A game supporting OpenGL is available either on Linux or Windows version or both. Some games are also ported to OpenGL through source port. The list is not an exhaustive:
 
 1.  [MDK2](https://en.wikipedia.org/wiki/MDK2 "MDK2")
 2.  [Doom 3](https://en.wikipedia.org/wiki/Doom_3 "Doom 3")
@@ -172,3 +172,18 @@ I have created the following list of  [Single player](https://en.wikipedia.org/w
 170. [Baldur's Gate: Dark Alliance II](https://www.pcgamingwiki.com/wiki/Baldur%27s_Gate:_Dark_Alliance_II)
 171. [Black Mesa](https://en.wikipedia.org/wiki/Black_Mesa_(video_game))
 172. [Euro Truck Simulator](https://en.wikipedia.org/wiki/Euro_Truck_Simulator)
+173. [TileRacer](https://tileracer.model-view.com/tl/index.php/news.html)
+174. [Cro-Mag Rally](https://jorio.itch.io/cromagrally)
+175. [Bugdom 2](https://jorio.itch.io/bugdom2)
+176. [Nanosaur II: Hatchling](https://jorio.itch.io/nanosaur2)
+177. [Billy Frontier](https://jorio.itch.io/billyfrontier)
+178. [Bugdom](https://jorio.itch.io/bugdom)
+179. [Otto Matic](https://jorio.itch.io/ottomatic)
+180. [AstroMenace](https://en.wikipedia.org/wiki/AstroMenace)
+181. [Maniadrive](http://maniadrive.raydium.org/)
+182. [Neverball](https://neverball.org/)
+183. [SuperTuxKart](https://supertuxkart.net/Main_Page.html)
+184. [MegaGlest](https://en.wikipedia.org/wiki/MegaGlest)
+185. [Yorg](https://ya2.itch.io/yorg)
+186. [Trigger Rally](https://trigger-rally.sourceforge.io/)
+187. [Tasty Static](https://www.tastystatic.com/)
