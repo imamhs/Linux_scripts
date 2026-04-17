@@ -138,3 +138,5 @@ I have created the following list of  [Single player](https://en.wikipedia.org/w
 136. [Beep](https://en.wikipedia.org/wiki/Beep_(video_game))
 137. [Grand Theft Auto: Vice City](https://github.com/mrxenginner/reVC)
 138. [Grand Theft Auto III](https://github.com/Cai1Hsu/re3)
+139. [Minecraft](https://simple.wikipedia.org/wiki/Minecraft)
+140. [Kerbal Space Program](https://en.wikipedia.org/wiki/Kerbal_Space_Program)
