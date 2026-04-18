@@ -80,7 +80,7 @@ I have created the following list of high-quality  [Single player](https://en.wi
 78.  [Saints Row: Gat out of Hell](https://en.wikipedia.org/wiki/Saints_Row:_Gat_out_of_Hell "Saints Row: Gat out of Hell")
 79.  [Saints Row: The Third](https://en.wikipedia.org/wiki/Saints_Row:_The_Third "Saints Row: The Third")
 80.  [18 Wheels of Steel](https://en.wikipedia.org/wiki/18_Wheels_of_Steel)
-81.  [AirStrike 2](https://www.pcgamingwiki.com/wiki/AirStrike_2)
+81.  [Back To Earth 2](https://strategywiki.org/wiki/Back_to_Earth_2)
 82.  [American McGee's Alice](https://en.wikipedia.org/wiki/American_McGee's_Alice)
 83.  [Apocalyptica](https://en.wikipedia.org/wiki/Apocalyptica_(video_game))
 84.  [Aquadelic GT](https://www.pcgamingwiki.com/wiki/Aquadelic_GT)
@@ -195,4 +195,3 @@ I have created the following list of high-quality  [Single player](https://en.wi
 193. [Marble Arena 2](https://www.moddb.com/games/marble-arena-2/downloads/marble-arena-2-linux)
 194. [Blob Wars : Blob And Conquer](https://www.parallelrealities.co.uk/games/blobAndConquer/#links)
 195. [Annex: Conquer the World](https://www.indiedb.com/games/annex-conquer-the-world)
-196. [Back To Earth 2](https://strategywiki.org/wiki/Back_to_Earth_2)
