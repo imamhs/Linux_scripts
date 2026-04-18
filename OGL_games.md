@@ -187,3 +187,4 @@ I have created the following list of high-quality  [Single player](https://en.wi
 185. [Yorg](https://ya2.itch.io/yorg)
 186. [Trigger Rally](https://trigger-rally.sourceforge.io/)
 187. [Tasty Static](https://www.tastystatic.com/)
+188. [Need For Speed™ II SE](https://github.com/zaps166/NFSIISE)
