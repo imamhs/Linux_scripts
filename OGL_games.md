@@ -195,3 +195,4 @@ I have created the following list of high-quality  [Single player](https://en.wi
 193. [Marble Arena 2](https://www.moddb.com/games/marble-arena-2/downloads/marble-arena-2-linux)
 194. [Blob Wars : Blob And Conquer](https://www.parallelrealities.co.uk/games/blobAndConquer/#links)
 195. [Annex: Conquer the World](https://www.indiedb.com/games/annex-conquer-the-world)
+196. [Back To Earth 2](https://strategywiki.org/wiki/Back_to_Earth_2)
