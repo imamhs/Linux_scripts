@@ -188,4 +188,4 @@ I have created the following list of high-quality  [Single player](https://en.wi
 186. [Trigger Rally](https://trigger-rally.sourceforge.io/)
 187. [Tasty Static](https://www.tastystatic.com/)
 188. [Need For Speed™ II SE](https://github.com/zaps166/NFSIISE)
-189. [Buggy Race](https://www.mediafire.com/file/i0ziezgsyzf73t2/Buggy_Race/file)-[Video](https://www.youtube.com/watch?v=OS3xv4a91MU)
+189. [Buggy Race](https://www.mediafire.com/file/i0ziezgsyzf73t2/Buggy_Race/file)-------------------[Gameplay video](https://www.youtube.com/watch?v=OS3xv4a91MU)
