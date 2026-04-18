@@ -191,3 +191,7 @@ I have created the following list of high-quality  [Single player](https://en.wi
 189. [Buggy Race](https://www.mediafire.com/file/i0ziezgsyzf73t2/Buggy_Race/file)____[Video](https://www.youtube.com/watch?v=OS3xv4a91MU)
 190. [Maziaks](https://www.indiedb.com/games/maziaks)
 191. [FreeSpace 2](https://en.wikipedia.org/wiki/FreeSpace_2)____[Linux](https://icculus.org/~ravage/freespace2/)
+192. [Warzone 2100](https://wz2100.net/)
+193. [Marble Arena 2](https://www.moddb.com/games/marble-arena-2/downloads/marble-arena-2-linux)
+194. [Blob Wars : Blob And Conquer](https://www.parallelrealities.co.uk/games/blobAndConquer/#links)
+195. [Annex: Conquer the World](https://www.indiedb.com/games/annex-conquer-the-world)
