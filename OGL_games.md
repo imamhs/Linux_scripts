@@ -199,4 +199,7 @@ I have created the following list of high-quality  [Single player](https://en.wi
 197. [Mini Golf Maniacs](https://archive.org/details/mini-golf-maniacs/)
 198. [Speedway 2000](https://archive.org/details/speedway_202505)
 199. [Arena Wars](https://en.wikipedia.org/wiki/Arena_Wars)
-200. [Bolzplatz 2006](https://github.com/Xenoage/Bolzplatz2006/)
+200. [Slam Soccer 2006](https://archive.org/details/Slam_Soccer_2006)
+201. [Glaxium](http://xhosxe.free.fr/glaxium/)
+202. [Power Of Destruction](https://archive.org/details/power-of-destruction/)
+203. [Worms 3D](https://en.wikipedia.org/wiki/Worms_3D)
