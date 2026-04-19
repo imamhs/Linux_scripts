@@ -195,3 +195,8 @@ I have created the following list of high-quality  [Single player](https://en.wi
 193. [Marble Arena 2](https://www.moddb.com/games/marble-arena-2/downloads/marble-arena-2-linux)
 194. [Blob Wars : Blob And Conquer](https://www.parallelrealities.co.uk/games/blobAndConquer/#links)
 195. [Annex: Conquer the World](https://www.indiedb.com/games/annex-conquer-the-world)
+196. [Odyssey By Car](https://archive.org/details/odysscar)
+197. [Mini Golf Maniacs](https://archive.org/details/mini-golf-maniacs/)
+198. [Speedway 2000](https://archive.org/details/speedway_202505)
+199. [Arena Wars](https://en.wikipedia.org/wiki/Arena_Wars)
+200. [Bolzplatz 2006](https://github.com/Xenoage/Bolzplatz2006/)
