@@ -204,4 +204,4 @@ I have created the following list of high-quality  [Single player](https://en.wi
 202. [Power Of Destruction](https://archive.org/details/power-of-destruction/)
 203. [MiniRacer](https://miniracer.sourceforge.net/#news)
 204. [Kingpin: Life of Crime](https://en.wikipedia.org/wiki/Kingpin:_Life_of_Crime)
-205. [AirStrike 2 (very first version not the later versions such as 2.50+)](https://www.pcgamingwiki.com/wiki/AirStrike_2)
+205. [AirStrike 2 (version 2.4, very first version)](https://www.pcgamingwiki.com/wiki/AirStrike_2)
