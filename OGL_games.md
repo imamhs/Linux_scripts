@@ -203,3 +203,4 @@ I have created the following list of high-quality  [Single player](https://en.wi
 201. [Glaxium](http://xhosxe.free.fr/glaxium/)
 202. [Power Of Destruction](https://archive.org/details/power-of-destruction/)
 203. [MiniRacer](https://miniracer.sourceforge.net/#news)
+204. [Kingpin: Life of Crime](https://en.wikipedia.org/wiki/Kingpin:_Life_of_Crime)
