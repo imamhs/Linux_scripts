@@ -205,4 +205,7 @@ I have created the following list of high-quality  [Single player](https://en.wi
 203. [MiniRacer](https://miniracer.sourceforge.net/#news)
 204. [Kingpin: Life of Crime](https://en.wikipedia.org/wiki/Kingpin:_Life_of_Crime)
 205. [AirStrike 2 (version 2.4, very first version)](https://archive.org/details/3-d-airstrike-2)
-206. [Billard-gl](https://github.com/ivan-hc/billard-gl-appimage)
+206. [Billard-GL](https://github.com/ivan-hc/billard-gl-appimage)
+207. [Trackballs](https://trackballs.github.io/)
+208. [0 A.D.](https://play0ad.com/)
+209. [Briquolo](http://briquolo.free.fr/en/index.html)
