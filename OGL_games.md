@@ -1,4 +1,6 @@
-I have created the following list of high-quality  [Single player](https://en.wikipedia.org/wiki/Single-player_video_game "Single-player video game")  [OpenGL](https://en.wikipedia.org/wiki/OpenGL "OpenGL")  [PC games](https://en.wikipedia.org/wiki/PC_game "PC game"). A game supporting OpenGL is available either on Linux or Windows version or both. Some games are also ported to OpenGL through source port. The list is not an exhaustive:
+I have created the following list of high-quality  [Single player](https://en.wikipedia.org/wiki/Single-player_video_game "Single-player video game")  [OpenGL](https://en.wikipedia.org/wiki/OpenGL "OpenGL")  [PC games](https://en.wikipedia.org/wiki/PC_game "PC game"). A game supporting OpenGL is available either on Linux or Windows version or both. Some games are also ported to OpenGL through source port. The list is not an exhaustive.
+
+Disclaimer: I do not own any files from the links. Some files which are hosted simply just for your convenience. Use at your own risks.
 
 1.  [MDK2](https://en.wikipedia.org/wiki/MDK2 "MDK2")
 2.  [Doom 3](https://en.wikipedia.org/wiki/Doom_3 "Doom 3")
