@@ -212,3 +212,5 @@ Disclaimer: I do not own any files from the links. Some files which are hosted s
 208. [0 A.D.](https://play0ad.com/)
 209. [Briquolo](http://briquolo.free.fr/en/index.html)
 210. [NASCAR Racing 2003 Season](https://en.wikipedia.org/wiki/NASCAR_Racing_2003_Season)
+211. [Need For Speed V - Porsche Unleashed](https://community.pcgamingwiki.com/files/file/2708-veroks-verokster-need-for-speed-v-porsche-unleashed-patch-v106/)
+212. [Need For Speed III Hot Pursuit](https://www.mediafire.com/file/hn8105u2me89wlz/nfs3_modern_patch_with_opengl.tar.xz/file)
