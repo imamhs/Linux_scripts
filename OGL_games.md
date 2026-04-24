@@ -214,3 +214,7 @@ Disclaimer: I do not own any files from the links. Some files which are hosted s
 210. [NASCAR Racing 2003 Season](https://en.wikipedia.org/wiki/NASCAR_Racing_2003_Season)
 211. [Need For Speed V - Porsche Unleashed](https://community.pcgamingwiki.com/files/file/2708-veroks-verokster-need-for-speed-v-porsche-unleashed-patch-v106/)
 212. [Need For Speed III Hot Pursuit](https://www.mediafire.com/file/hn8105u2me89wlz/nfs3_modern_patch_with_opengl.tar.xz/file)
+213. [Star Trek: The Next Generation: Klingon Honor Guard](https://coding.hanfling.de/opengldrv/)
+214. [Nerf Arena Blast](https://coding.hanfling.de/opengldrv/)
+215. [The Wheel of Time](https://www.pcgamingwiki.com/wiki/The_Wheel_of_Time)
+216. [X-Com Enforcer](https://coding.hanfling.de/opengldrv/)
