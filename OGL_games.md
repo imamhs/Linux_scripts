@@ -218,3 +218,4 @@ Disclaimer: I do not own any files from the links. Some files which are hosted s
 214. [Nerf Arena Blast](https://coding.hanfling.de/opengldrv/)
 215. [The Wheel of Time](https://www.pcgamingwiki.com/wiki/The_Wheel_of_Time)
 216. [X-Com Enforcer](https://coding.hanfling.de/opengldrv/)
+217. [Thrust Control](https://www.moddb.com/games/thrust-control)
