@@ -1,5 +1,7 @@
 I am compiling the following list of PC games that using older [Direct3D](https://en.wikipedia.org/wiki/Direct3D) run perfectly on [Linux](https://en.wikipedia.org/wiki/Linux) with [Wine](https://www.winehq.org/) and [D7VK](https://github.com/WinterSnowfall/d7vk) implementations of [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows) and [Direct3D](https://en.wikipedia.org/wiki/Direct3D) [APIs](https://en.wikipedia.org/wiki/API) on Linux respectively. The list is not an exhaustive.
 
+The following are tested against [D7VK](https://github.com/WinterSnowfall/d7vk) version 1.8 and [Wine](https://www.winehq.org/) version 10.0.
+
 1.  [Insane](https://en.wikipedia.org/wiki/Insane_(2000_video_game))
 2.  [2002 FIFA World Cup](https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_(video_game))
 3.  [Apache AH-64 Air Assault](https://www.metacritic.com/game/apache-ah-64-air-assault/)
@@ -11,3 +13,12 @@ I am compiling the following list of PC games that using older [Direct3D](https:
 9.  [Hitman: Codename 47](https://en.wikipedia.org/wiki/Hitman:_Codename_47)
 10.  [Drakan: Order of the Flame](https://en.wikipedia.org/wiki/Drakan:_Order_of_the_Flame)
 11.  [Black & White](https://en.wikipedia.org/wiki/Black_%26_White_(video_game))
+12.  [Battlezone 1998](https://en.wikipedia.org/wiki/Battlezone_(1998_video_game))
+13.  [Battlezone II: Combat Commander](https://en.wikipedia.org/wiki/Battlezone_II:_Combat_Commander)
+14.  [Blood II: The Chosen](https://en.wikipedia.org/wiki/Blood_II:_The_Chosen)
+15.  [Clive Barker's Undying](https://en.wikipedia.org/wiki/Clive_Barker%27s_Undying)
+16.  [Codename: Outbreak](https://en.wikipedia.org/wiki/Codename:_Outbreak)
+17.  [DethKarz](https://en.wikipedia.org/wiki/DethKarz)
+18.  [Earthworm Jim 3D](https://en.wikipedia.org/wiki/Earthworm_Jim_3D)
+19.  [Indiana Jones and the Infernal Machine](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Infernal_Machine)
+
