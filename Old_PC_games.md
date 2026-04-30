@@ -21,5 +21,7 @@ The following are tested against [D7VK](https://github.com/WinterSnowfall/d7vk) 
 17.  [DethKarz](https://en.wikipedia.org/wiki/DethKarz)
 18.  [Earthworm Jim 3D](https://en.wikipedia.org/wiki/Earthworm_Jim_3D)
 19.  [Indiana Jones and the Infernal Machine](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Infernal_Machine)
-20.  
+20.  [Aladdin Nasira's Revenge](https://en.wikipedia.org/wiki/Disney%27s_Aladdin_in_Nasira%27s_Revenge)
+21.  [Army Men: Sarge's Heroes](https://en.wikipedia.org/wiki/Army_Men:_Sarge%27s_Heroes)
+22.  [Driver](https://en.wikipedia.org/wiki/Driver_(video_game))
 
