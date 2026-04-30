@@ -27,4 +27,4 @@ The following are tested against [D7VK](https://github.com/WinterSnowfall/d7vk) 
 23.  [Legacy of Kain: Soul Reaver](https://en.wikipedia.org/wiki/Legacy_of_Kain:_Soul_Reaver)
 24.  [MechWarrior 3](https://en.wikipedia.org/wiki/MechWarrior_3)
 25.  [Motocross Madness 2](https://en.wikipedia.org/wiki/Motocross_Madness_2)
-
+26.  [Motocross Mania](https://en.wikipedia.org/wiki/Motocross_Mania)
