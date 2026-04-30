@@ -29,3 +29,5 @@ The following are tested against [D7VK](https://github.com/WinterSnowfall/d7vk) 
 25.  [Motocross Madness 2](https://en.wikipedia.org/wiki/Motocross_Madness_2)
 26.  [Motocross Mania](https://en.wikipedia.org/wiki/Motocross_Mania)
 27.  [S.C.A.R.S.](https://en.wikipedia.org/wiki/S.C.A.R.S._(video_game))
+28.  [V-Rally 2](https://en.wikipedia.org/wiki/V-Rally_2)
+29.  
