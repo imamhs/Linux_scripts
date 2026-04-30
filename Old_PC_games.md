@@ -30,4 +30,4 @@ The following are tested against [D7VK](https://github.com/WinterSnowfall/d7vk) 
 26.  [Motocross Mania](https://en.wikipedia.org/wiki/Motocross_Mania)
 27.  [S.C.A.R.S.](https://en.wikipedia.org/wiki/S.C.A.R.S._(video_game))
 28.  [V-Rally 2](https://en.wikipedia.org/wiki/V-Rally_2)
-29.  
+29.  [The House of the Dead 2](https://en.wikipedia.org/wiki/The_House_of_the_Dead_2)
