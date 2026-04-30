@@ -1,6 +1,6 @@
 I am compiling the following list of PC games that using older [Direct3D](https://en.wikipedia.org/wiki/Direct3D) run perfectly on [Linux](https://en.wikipedia.org/wiki/Linux) with [Wine](https://www.winehq.org/) and [D7VK](https://github.com/WinterSnowfall/d7vk) implementations of [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows) and [Direct3D](https://en.wikipedia.org/wiki/Direct3D) [APIs](https://en.wikipedia.org/wiki/API) on Linux respectively. The list is not an exhaustive.
 
-The following are tested against [D7VK](https://github.com/WinterSnowfall/d7vk) version 1.8 and [Wine](https://www.winehq.org/) version 10.0.
+The following are tested against [D7VK](https://github.com/WinterSnowfall/d7vk) version 1.8 and [Wine](https://www.winehq.org/) version 10.0. You need a pure 32-bit Wine prefix for some games to work. Make sure you create a pure 32-bit Wine prefix using older Wine versions ie Wine 5 as newer Wine versions ie Wine 10,11 do not create a pure 32-bit prefix.
 
 1.  [Insane](https://en.wikipedia.org/wiki/Insane_(2000_video_game))
 2.  [2002 FIFA World Cup](https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_(video_game))
@@ -21,4 +21,5 @@ The following are tested against [D7VK](https://github.com/WinterSnowfall/d7vk) 
 17.  [DethKarz](https://en.wikipedia.org/wiki/DethKarz)
 18.  [Earthworm Jim 3D](https://en.wikipedia.org/wiki/Earthworm_Jim_3D)
 19.  [Indiana Jones and the Infernal Machine](https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Infernal_Machine)
+20.  
 
