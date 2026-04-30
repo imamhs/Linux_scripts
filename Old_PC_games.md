@@ -24,4 +24,7 @@ The following are tested against [D7VK](https://github.com/WinterSnowfall/d7vk) 
 20.  [Aladdin Nasira's Revenge](https://en.wikipedia.org/wiki/Disney%27s_Aladdin_in_Nasira%27s_Revenge)
 21.  [Army Men: Sarge's Heroes](https://en.wikipedia.org/wiki/Army_Men:_Sarge%27s_Heroes)
 22.  [Driver](https://en.wikipedia.org/wiki/Driver_(video_game))
+23.  [Legacy of Kain: Soul Reaver](https://en.wikipedia.org/wiki/Legacy_of_Kain:_Soul_Reaver)
+24.  [MechWarrior 3](https://en.wikipedia.org/wiki/MechWarrior_3)
+25.  [Motocross Madness 2](https://en.wikipedia.org/wiki/Motocross_Madness_2)
 
