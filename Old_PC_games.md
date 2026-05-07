@@ -35,3 +35,4 @@ The following are tested against [D7VK](https://github.com/WinterSnowfall/d7vk) 
 31.  [Tomb Raider: The Last Revelation](https://en.wikipedia.org/wiki/Tomb_Raider:_The_Last_Revelation)
 32.  [Tomb Raider: Chronicles](https://en.wikipedia.org/wiki/Tomb_Raider:_Chronicles)
 33.  [MDK](https://en.wikipedia.org/wiki/MDK) - Need Texture Error Detection to Direct3D in the settings
+34.  [Extreme-G 2](https://en.wikipedia.org/wiki/Extreme-G_2)
