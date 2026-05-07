@@ -37,3 +37,4 @@ The following are tested against [D7VK](https://github.com/WinterSnowfall/d7vk) 
 33.  [MDK](https://en.wikipedia.org/wiki/MDK) - Need Texture Error Detection to Direct3D in the settings
 34.  [Extreme-G 2](https://en.wikipedia.org/wiki/Extreme-G_2)
 35.  [Rayman 2: The Great Escape](https://en.wikipedia.org/wiki/Rayman_2:_The_Great_Escape)
+36.  [Aliens Versus Predator 2](https://en.wikipedia.org/wiki/Aliens_Versus_Predator_2)
