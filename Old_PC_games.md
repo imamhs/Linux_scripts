@@ -6,7 +6,7 @@ If you do not want to fiddle, you could simply use [Faugus Launcher](https://git
 
 1.  [Insane](https://en.wikipedia.org/wiki/Insane_(2000_video_game))
 2.  [2002 FIFA World Cup](https://en.wikipedia.org/wiki/2002_FIFA_World_Cup_(video_game))
-3.  [Apache AH-64 Air Assault](https://www.metacritic.com/game/apache-ah-64-air-assault/) -  First version, later version uses higher [Direct3D](https://en.wikipedia.org/wiki/Direct3D)
+3.  [Apache AH-64 Air Assault](https://www.metacritic.com/game/apache-ah-64-air-assault/) -  First version, later version uses [Direct3D](https://en.wikipedia.org/wiki/Direct3D) 8.
 4.  [Sonic R](https://en.wikipedia.org/wiki/Sonic_R)
 5.  [Moto Racer](https://en.wikipedia.org/wiki/Moto_Racer)
 6.  [Moto Racer 2](https://en.wikipedia.org/wiki/Moto_Racer_2)
