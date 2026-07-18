@@ -40,3 +40,4 @@ If you do not want to fiddle, you could simply use [Faugus Launcher](https://git
 34.  [Extreme-G 2](https://en.wikipedia.org/wiki/Extreme-G_2)
 35.  [Rayman 2: The Great Escape](https://en.wikipedia.org/wiki/Rayman_2:_The_Great_Escape)
 36.  [Aliens Versus Predator 2](https://en.wikipedia.org/wiki/Aliens_Versus_Predator_2)
+37.  [London Racer II](https://www.pcgamingwiki.com/wiki/London_Racer_II)
