@@ -42,3 +42,4 @@ If you do not want to fiddle, you could simply use [Faugus Launcher](https://git
 36.  [Aliens Versus Predator 2](https://en.wikipedia.org/wiki/Aliens_Versus_Predator_2)
 37.  [London Racer II](https://www.pcgamingwiki.com/wiki/London_Racer_II)
 38.  [Cricket 2000](https://en.wikipedia.org/wiki/Cricket_2000)
+39.  [Midtown Madness 2](https://en.wikipedia.org/wiki/Midtown_Madness_2)
