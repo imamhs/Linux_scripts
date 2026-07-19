@@ -45,3 +45,5 @@ If you do not want to fiddle, you could simply use [Faugus Launcher](https://git
 39.  [Midtown Madness 2](https://en.wikipedia.org/wiki/Midtown_Madness_2)
 40.  [Delta Force: Land Warrior](https://en.wikipedia.org/wiki/Delta_Force:_Land_Warrior)
 41.  [Toy Story 2: Buzz Lightyear to the Rescue](https://en.wikipedia.org/wiki/Toy_Story_2:_Buzz_Lightyear_to_the_Rescue)
+42.  [Monster Truck Madness](https://en.wikipedia.org/wiki/Monster_Truck_Madness)
+43.  [Monster Truck Madness 2](https://en.wikipedia.org/wiki/Monster_Truck_Madness_2)
