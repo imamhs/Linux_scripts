@@ -47,3 +47,4 @@ If you do not want to fiddle, you could simply use [Faugus Launcher](https://git
 41.  [Toy Story 2: Buzz Lightyear to the Rescue](https://en.wikipedia.org/wiki/Toy_Story_2:_Buzz_Lightyear_to_the_Rescue)
 42.  [Monster Truck Madness](https://en.wikipedia.org/wiki/Monster_Truck_Madness)
 43.  [Monster Truck Madness 2](https://en.wikipedia.org/wiki/Monster_Truck_Madness_2)
+44.  [Project I.G.I.: I'm Going In](https://en.wikipedia.org/wiki/Project_I.G.I.) - you need to set either ddraw.managedVertexBuffers = True or ddraw.forceSWVP = True in the dxvk.conf file to fix the performance
