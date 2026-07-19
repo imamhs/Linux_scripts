@@ -44,3 +44,4 @@ If you do not want to fiddle, you could simply use [Faugus Launcher](https://git
 38.  [Cricket 2000](https://en.wikipedia.org/wiki/Cricket_2000)
 39.  [Midtown Madness 2](https://en.wikipedia.org/wiki/Midtown_Madness_2)
 40.  [Delta Force: Land Warrior](https://en.wikipedia.org/wiki/Delta_Force:_Land_Warrior)
+41.  [Toy Story 2: Buzz Lightyear to the Rescue](https://en.wikipedia.org/wiki/Toy_Story_2:_Buzz_Lightyear_to_the_Rescue)
