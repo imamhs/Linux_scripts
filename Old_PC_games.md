@@ -48,3 +48,4 @@ If you do not want to fiddle, you could simply use [Faugus Launcher](https://git
 42.  [Monster Truck Madness](https://en.wikipedia.org/wiki/Monster_Truck_Madness)
 43.  [Monster Truck Madness 2](https://en.wikipedia.org/wiki/Monster_Truck_Madness_2)
 44.  [Project I.G.I.: I'm Going In](https://en.wikipedia.org/wiki/Project_I.G.I.) - you need to set either ddraw.managedVertexBuffers = True or ddraw.forceSWVP = True in the dxvk.conf file to fix the performance
+45.  [Mortal Kombat 4](https://en.wikipedia.org/wiki/Mortal_Kombat_4)
