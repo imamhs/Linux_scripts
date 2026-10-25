@@ -1,6 +1,6 @@
 #!/bin/bash
-# Script for fixing Exile III: Ruined World Linux launch setup and scripts 
-# Copyright (C) 2006 Md Imam Hossain
+# Script for fixing Exile III: Ruined World Linux setup and launch scripts 
+# Copyright (C) 2026 Md Imam Hossain
 # This script is distributed in the hope that it will be useful but WITHOUT ANY WARRANTY. 
 
 # fix exile3-fullscreen-x-clients launch script
