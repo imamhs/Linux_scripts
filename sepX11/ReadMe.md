@@ -1,3 +1,5 @@
+These helper scripts are created for easily launching a game/program in separate X11 server.
+
 **How to use**
 
  - Copy sepX11.conf, sepX11_start.sh and sepX11_stop.sh to a folder,
@@ -45,5 +47,3 @@ After closing the application, come back to the regular desktop using Ctrl + Alt
 
 In the above, we are telling the command to stop the new X11 server running in the tty3 console. 
 
-Cheers,
-Imam
